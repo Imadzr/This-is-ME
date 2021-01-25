@@ -1,0 +1,1116 @@
+.mediaViewInfo {
+	--web-view-name: THIS IS ME CAPIROSSI MATTEO;
+	--web-view-id: THIS_IS_ME_CAPIROSSI_MATTEO;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: THIS_IS_ME_CAPIROSSI_MATTEO;
+}
+a:hover {
+  color: grey;
+  font-size: 110%;
+
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+
+#sottotitoli{
+	font-size: 70px;
+	font-family:Gaegu;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#THIS_IS_ME_CAPIROSSI_MATTEO {
+	position: absolute;
+	width: 1280px;
+	height: 15936px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: THIS IS ME CAPIROSSI MATTEO;
+	--web-view-id: THIS_IS_ME_CAPIROSSI_MATTEO;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#THIS_IS_ME {
+	position: absolute;
+	width: 306px;
+	height: 92px;
+	left: 487px;
+	top: 354px;
+	overflow: visible;
+}
+#This_is_ME {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 62px;
+	color: rgba(0,0,0,1);
+}
+.SFONDO_MENU {
+	position: absolute;
+	overflow: visible;
+	width: 1231px;
+	height: 70px;
+	left: 35px;
+	top: 351px;
+}
+#SFONDO_MENU {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+#SFONDO {
+	fill: rgba(255,255,255,1);
+}
+.SFONDO {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+}
+#MENU {
+	position: absolute;
+	width: 1280px;
+	height: 800px;
+	left: 0px;
+	top: 753px;
+	overflow: visible;
+}
+#IMMAGINE_FACCIA {
+	position: absolute;
+	width: 494px;
+	height: 668px;
+	left: 393px;
+	top: 66px;
+	overflow: visible;
+}
+#MENU_m {
+	position: absolute;
+	width: 979px;
+	height: 48px;
+	left: 150px;
+	top: 360px;
+	overflow: visible;
+}
+#ABOUT_ME {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#MY_WORKS {
+	left: 202px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#LINKEDIN {
+	left: 404px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#FACEBOOK {
+	left: 606px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#INSTAGRAM {
+	left: 808px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#THIS_IS_ME_s {
+	position: absolute;
+	width: 1025px;
+	height: 974px;
+	left: 121px;
+	top: 1700px;
+	overflow: visible;
+}
+#IMMAGINE {
+	position: absolute;
+	width: 324px;
+	height: 800px;
+	left: 360px;
+	top: 170px;
+	overflow: visible;
+}
+#Mi_chiamo_Matteo_Capirossi_nat {
+	left: 13px;
+	top: 167px;
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#My_name_is_Matteo_Capirossi_an {
+	left: 704px;
+	top: 167px;
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#TITOLO {
+	left: 13px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 617px;
+	height: 391px;
+	text-align: left;
+	line-height: 60px;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 120px;
+	color: rgba(0,0,0,1);
+}
+#MENU_LAVORI {
+	position: absolute;
+	width: 1280px;
+	height: 800px;
+	left: 0px;
+	top: 2854px;
+	overflow: visible;
+}
+#MY_WORKS_y {
+	line-height: 90px;
+	left: 138px;
+	top: 39px;
+	position: absolute;
+	overflow: visible;
+	width: 617px;
+	height: 391px;
+	text-align: left;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 120px;
+	color: rgba(0,0,0,1);
+}
+#BUZZ_jewel_box {
+	left: 487px;
+	top: 457px;
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#FK_YOU_Katsushika_ {
+	left: 487px;
+	top: 510px;
+	position: absolute;
+	overflow: visible;
+	width: 567px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#Flame_Fest_music_festival {
+	left: 487px;
+	top: 563px;
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#TBA_mag_poster {
+	left: 487px;
+	top: 616px;
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#I_want_more {
+	left: 487px;
+	top: 689px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	line-height: 48px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#CURSORE {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	right: 110px;
+	top: 23px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9 {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9:hover
+{
+	width: 104px;;
+	height: auto;
+	}
+#Gruppo_di_maschere_8 {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8:hover{
+	position: absolute;
+	width: 104px;
+	height: auto;
+
+}
+#BUZZ {
+	position: absolute;
+	width: 1198px;
+	height: 2856.266px;
+	left: 39px;
+	top: 3744px;
+	overflow: visible;
+}
+#Griglia_di_ripetizione_2 {
+	position: absolute;
+	width: 919px;
+	height: 179px;
+	left: 99px;
+	top: 0px;
+	overflow: hidden;
+}
+#Griglia_di_ripetizione_2_0 {
+	position: absolute;
+	width: 919px;
+	height: 144px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#BUZZ_TITOLO {
+	left: 0px;
+	top: -20px;
+	position: absolute;
+	overflow: hidden;
+	width: 920px;
+	height: 160px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 120px;
+	color: rgba(0,0,0,1);
+}
+#BUZZ_TESTO {
+	left: 99px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#DISCO_INTERNO {
+	position: absolute;
+	width: 1116px;
+	height: 513px;
+	left: 43px;
+	top: 903px;
+	overflow: visible;
+}
+#RIGA_API_BASSO {
+	position: absolute;
+	width: 1028px;
+	height: 92px;
+	left: 99px;
+	top: 792px;
+	overflow: hidden;
+}
+#RIGA_API_BASSO_0 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_1 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 116px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bh {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_2 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 232px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bj {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_3 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 348px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bl {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_4 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 464px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bn {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_5 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 580px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bp {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_6 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 696px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_br {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_7 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 812px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bt {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_8 {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 928px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bv {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_ALTO {
+	position: absolute;
+	width: 1020px;
+	height: 92px;
+	left: 91px;
+	top: 1441px;
+	overflow: hidden;
+}
+#RIGA_API_ALTO_0 {
+	position: absolute;
+	width: 1020px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_by {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 928px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bz {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 812px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_b {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 696px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_ca {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 580px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cb {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 464px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cc {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 348px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cd {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 232px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_ce {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 116px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cf {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#POSTER_DESTRA {
+	position: absolute;
+	width: 674px;
+	height: 809.043px;
+	left: 524px;
+	top: 1498.896px;
+	overflow: visible;
+}
+#POSTER_SINISTRA {
+	position: absolute;
+	width: 678px;
+	height: 814.41px;
+	left: 0px;
+	top: 1496.481px;
+	overflow: visible;
+}
+#FRONTE_DISCO {
+	position: absolute;
+	width: 912.563px;
+	height: 687.533px;
+	left: 203.845px;
+	top: 2168.733px;
+	overflow: visible;
+}
+#ape_testo {
+	position: absolute;
+	width: 492px;
+	height: 345px;
+	left: 609px;
+	top: 419px;
+	overflow: visible;
+}
+#CURSORE_2 {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	right: 70px;
+	top: 50px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_cc {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+#HOKUSAI {
+	position: absolute;
+	width: 1492px;
+	height: 2981px;
+	left: -122px;
+	top: 6644px;
+	overflow: visible;
+}
+#FK_YOU_TITOLO {
+	left: 260px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 920px;
+	height: 281px;
+	text-align: left;
+	line-height: 90px;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 120px;
+	color: rgba(0,0,0,1);
+}
+#FK_YOU_TESTO {
+	left: 260px;
+	top: 260px;
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#LA-GRANDE-ONDA {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 1004px;
+	height: 687px;
+	left: 260px;
+	top: 474px;
+	overflow: visible;
+}
+#FORESTA-SUL-MARE-2 {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 782px;
+	height: 454px;
+	left: 0px;
+	top: 1232px;
+	overflow: visible;
+}
+#CASCATA {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 619px;
+	height: 910px;
+	left: 873px;
+	top: 1301px;
+	overflow: visible;
+}
+#RISO {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 661px;
+	height: 455px;
+	left: 155px;
+	top: 1776px;
+	overflow: visible;
+}
+#CONTADINI {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 1004px;
+	height: 684px;
+	left: 260px;
+	top: 2297px;
+	overflow: visible;
+}
+#CURSORE_3 {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	right: 195px;
+	top: 67.5px;
+	overflow: visible;
+}
+
+#FLAME_FEST {
+	position: absolute;
+	width: 1690.312px;
+	height: 3244px;
+	left: -334.312px;
+	top: 9743px;
+	overflow: visible;
+}
+#Flame_fest_TITOLO {
+	left: 472.312px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 1005px;
+	height: 281px;
+	line-height: 60px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 120px;
+	color: rgba(0,0,0,1);
+}
+#Flame_fest_TESTO {
+	left: 472.312px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 495px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#POSTER_1 {
+	position: absolute;
+	width: 1506.624px;
+	height: 1090.548px;
+	left: 0px;
+	top: 1114.156px;
+	overflow: visible;
+	z-index: 100;
+}
+#LOCANDINA_1 {
+	position: absolute;
+	width: 494px;
+	height: 698px;
+	left: 982.312px;
+	top: 1672px;
+	overflow: visible;
+}
+#LOCANDINA_3 {
+	position: absolute;
+	width: 494px;
+	height: 698px;
+	left: 982.312px;
+	top: 2389px;
+	overflow: visible;
+}
+#LOCANDINA_2 {
+	position: absolute;
+	width: 494px;
+	height: 699px;
+	left: 472.312px;
+	top: 2033px;
+	overflow: visible;
+}
+#CELL_1 {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	left: 447px;
+	top: 2630px;
+	overflow: visible;
+}
+
+#CELL_1:hover {
+	left: 445px;
+	z-index: 999;
+	width: 350px;
+	height: auto;
+}
+#CELL_2 {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	left: 701px;
+	top: 2720px;
+	overflow: visible;
+}
+#Untitled-2 {
+	position: absolute;
+	width: 1004px;
+	height: 525px;
+	left: 472.312px;
+	top: 803px;
+	overflow: visible;
+}
+#lettera_f {
+	position: absolute;
+	width: 212.48px;
+	height: 310.854px;
+	left: 854.832px;
+	top: 521px;
+	overflow: visible;
+}
+#Tracciato_142 {
+	fill: rgba(255,238,82,1);
+}
+.Tracciato_142 {
+	overflow: visible;
+	position: absolute;
+	width: 202.47px;
+	height: 301.032px;
+	left: 5px;
+	top: 4.911px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_143 {
+	fill: rgba(237,110,56,1);
+}
+.Tracciato_143 {
+	overflow: visible;
+	position: absolute;
+	width: 212.48px;
+	height: 310.854px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#sfondo-flame {
+	position: absolute;
+	width: 1010px;
+	height: 726px;
+	left: 680.312px;
+	top: 107px;
+	overflow: visible;
+}
+#CURSORE_4 {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	right: 180px;
+	top: 80px;
+	overflow: visible;
+}
+
+
+
+#TBA {
+	position: absolute;
+	width: 1198px;
+	height: 2432px;
+	left: 41px;
+	top: 13049px;
+	overflow: visible;
+}
+#TBA_mag_TITOLO {
+	left: 97px;
+	line-height: 60px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1005px;
+	height: 281px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 120px;
+	color: rgba(0,0,0,1);
+}
+#a4_tiny_moving_parts_rgb_copy {
+	position: absolute;
+	width: 674px;
+	height: 822.575px;
+	left: 522px;
+	top: 141px;
+	overflow: visible;
+}
+#MACHINE_GUN {
+	position: absolute;
+	width: 674px;
+	height: 809.044px;
+	left: 524px;
+	top: 878.004px;
+	overflow: visible;
+}
+#TRE_ALLEGRI {
+	opacity: 0.91;
+	position: absolute;
+	width: 674px;
+	height: 809.044px;
+	left: 524px;
+	top: 1620.004px;
+	overflow: visible;
+}
+#a4_MCR_rgb_vuoto {
+	position: absolute;
+	width: 678px;
+	height: 814.41px;
+	left: 0px;
+	top: 875.59px;
+	overflow: visible;
+}
+#GAZEBO {
+	position: absolute;
+	width: 678px;
+	height: 814.41px;
+	left: 0px;
+	top: 1617.59px;
+	overflow: visible;
+}
+#CURSORE_5 {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	right: 70px;
+	top: 60px;
+	overflow: visible;
+}
+
+#FINE {
+	position: absolute;
+	width: 906.542px;
+	height: 449px;
+	left: 252.2px;
+	top: 15640px;
+	overflow: visible;
+}
+#CURSORE_6 {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 770px;
+	top: 0px;
+	overflow: visible;
+}
+
+#This_is_ME_dm {
+	left: 0px;
+	top: 207px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(0,0,0,1);
+}
+#Matteo_Capirossi {
+	left: 565.8px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(0,0,0,1);
+}
+#IMMAGINE_FACCIA_do {
+	position: absolute;
+	width: 332px;
+	height: 449px;
+	left: 221.8px;
+	top: 0px;
+	overflow: visible;
+}
