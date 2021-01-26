@@ -293,7 +293,7 @@ a{
 	top: 457px;
 	position: absolute;
 	overflow: visible;
-	width: 350px;
+	width: 370px;
 	text-align: left;
 	font-family: Kanit;
 	font-style: normal;
@@ -306,7 +306,7 @@ a{
 	top: 510px;
 	position: absolute;
 	overflow: visible;
-	width: 567px;
+	width: 687px;
 	text-align: left;
 	font-family: Kanit;
 	font-style: normal;
@@ -319,7 +319,7 @@ a{
 	top: 563px;
 	position: absolute;
 	overflow: visible;
-	width: 571px;
+	width: 691px;
 	text-align: left;
 	font-family: Kanit;
 	font-style: normal;
@@ -332,7 +332,7 @@ a{
 	top: 616px;
 	position: absolute;
 	overflow: visible;
-	width: 397px;
+	width: 510px;
 	text-align: left;
 	font-family: Kanit;
 	font-style: normal;
@@ -345,7 +345,7 @@ a{
 	top: 689px;
 	position: absolute;
 	overflow: visible;
-	width: 226px;
+	width: 300px;
 	line-height: 48px;
 	margin-top: -4px;
 	text-align: left;
@@ -716,6 +716,12 @@ a{
 	left: 203.845px;
 	top: 2168.733px;
 	overflow: visible;
+}
+
+#FRONTE_DISCO:hover{
+	width: 940.563px;
+	height: auto;
+
 }
 #ape_testo {
 	position: absolute;
