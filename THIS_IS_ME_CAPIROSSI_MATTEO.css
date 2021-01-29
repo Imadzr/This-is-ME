@@ -434,7 +434,7 @@ a{
 	position: absolute;
 	overflow: visible;
 	width: 495px;
-	white-space: nowrap;
+	white-space: normal;
 	line-height: 20px;
 	margin-top: -1px;
 	text-align: left;
@@ -870,7 +870,7 @@ a{
 	position: absolute;
 	overflow: visible;
 	width: 495px;
-	white-space: nowrap;
+	white-space: normal;
 	line-height: 20px;
 	margin-top: -1px;
 	text-align: left;
