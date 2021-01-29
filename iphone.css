@@ -1,0 +1,1695 @@
+@media ( max-width: 450px){
+	a:hover {
+  color: grey;
+  font-size: 110%;
+
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+
+* {
+	margin: auto;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#THIS_IS_ME_CAPIROSSI_MATTEO {
+	position: absolute;
+	width: 450px;
+	height: 8720px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+}
+#THIS_IS_ME {
+	position: absolute;
+	width: 450px;
+	height: 812px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+#This_is_ME {
+	left: 71.7px;
+	top: 367px;
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	text-align: left;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 62px;
+	color: rgba(0,0,0,1);
+}
+#MENU {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 0px;
+	top: 812px;
+	overflow: visible;
+}
+#IMMAGINE_FACCIA {
+	position: absolute;
+	width: 211px;
+	height: 292px;
+	left: 119.5px;
+	top: 60px;
+	overflow: visible;
+}
+#SFONDO_MENU {
+	display: none;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.SFONDO_MENU {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 450px;
+	height: 70px;
+	left: 35px;
+	top: 351px;
+}
+#MENU_m {
+	position: absolute;
+	width: 214px;
+	height: 300px;
+	left: 118px;
+	top: 420px;
+	overflow: visible;
+}
+#ABOUT_ME {
+	left: 11px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	line-height: 45px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#MY_WORKS {
+	left: 7px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	line-height: 45px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#LINKEDIN {
+	left: 21px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	line-height: 45px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#FACEBOOK {
+	left: 7px;
+	top: 180px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	line-height: 45px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#INSTAGRAM {
+	left: 0px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 45px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#THIS_IS_ME_s {
+	position: absolute;
+	width: 1280px;
+	height: 1108px;
+	left: 0px;
+	top: 1550px;
+	overflow: visible;
+}
+#SFONDO_u {
+	fill: rgba(255,255,255,1);
+}
+.SFONDO_u {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 1086px;
+	left: 0px;
+	top: 22px;
+}
+#IMMAGINE {
+	position: absolute;
+	width: 324px;
+	height: 800px;
+	left: 481px;
+	top: 170px;
+	overflow: visible;
+}
+#Mi_chiamo_Matteo_Capirossi_nat {
+	left: 73.5px;
+	top: 140px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrp;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#My_name_is_Matteo_Capirossi_an {
+	left: 73.5px;
+	top: 750px;
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	white-space: nowap;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#TITOLO {
+	left: 86.33px;
+	top: 47px;
+	position: absolute;
+	overflow: hidden;
+	width: auto;
+	height: 91px;
+	line-height: 100px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+}
+#CURSORE {
+	display: none;
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 1012px;
+	top: 1058px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9 {
+	display: none;
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9:hover
+{
+	display: none;
+	width: 104px;;
+	height: auto;
+
+}
+#Gruppo_di_maschere_8 {
+	display: none;
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8:hover{
+	display: none;
+	position: absolute;
+	width: 104px;
+	height: auto;
+
+}
+#MENU_LAVORI {
+	position: absolute;
+	width: 416px;
+	height: 5616px;
+	left: 0px;
+	top: 2893px;
+	overflow: visible;
+}
+#SFONDO_ {
+	fill: transparent;
+}
+.SFONDO_ {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 147px;
+	left: 21px;
+	top: 0px;
+	pointer-events: none;
+}
+#MY_WORKS_y {
+	left: 106.365px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: auto;
+	height: 147px;
+	text-align: center;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 60px;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+	pointer-events: none;
+}
+#BUZZ_jewel_box {
+	display: none;
+	left: 507px;
+	top: 641px;
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#FK_YOU_Katsushika_ {
+	display: none;
+	left: 507px;
+	top: 694px;
+	position: absolute;
+	overflow: visible;
+	width: 567px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#Flame_Fest_music_festival {
+	display: none;
+	left: 507px;
+	top: 747px;
+	position: absolute;
+	overflow: visible;
+	width: 571px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#TBA_mag_poster {
+	display: none;
+	left: 507px;
+	top: 800px;
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(0,0,0,1);
+}
+#I_want_more {
+	left: 93px;
+	top: 5450px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	line-height: 48px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#CURSORE_ba {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 1032px;
+	top: 934px;
+	display: none;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_bb {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_bc {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+#BUZZ {
+	position: absolute;
+	width: 450px;
+	height: auto;
+	left: 0px;
+	top: 3100px;
+	overflow: visible;
+}
+
+#sottotitoli{
+	font-size:40px;
+	font-family:Gaegu;
+	line-height:10px;
+}
+#Griglia_di_ripetizione_2_0 {
+    position: absolute;
+    width: auto;
+    height: 144px;
+    left: 125px;
+    top: 0px;
+    overflow: visible;
+    }
+#Griglia_di_ripetizione_2 {
+    position: absolute;
+    width: auto;
+    height: 125px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#BUZZ_TITOLO {
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 144px;
+	text-align: center;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 40px;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+}
+#BUZZ_TESTO {
+	z-index: 99;
+	left: 73.5px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: left;
+	white-space: normal;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#DISCO_INTERNO {
+	position: absolute;
+	width: 339px;
+	height: 156px;
+	left: 55.5px;
+	top: 810px;
+	overflow: visible;
+}
+#RIGA_API_BASSO {
+	position: absolute;
+	width: 308px;
+	height: 28px;
+	left: 71px;
+	top: 770px;
+	overflow: hidden;
+}
+#RIGA_API_BASSO_0 {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_1 {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 47px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bl {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_2 {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 94px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bn {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_3 {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 141px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bp {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_4 {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 188px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_br {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_5 {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 235px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bt {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#RIGA_API_BASSO_6 {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 282px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bv {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bj {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_bh {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#POSTER_DESTRA {
+	position: absolute;
+	width: 204.043px;
+	height: 244.926px;
+	left: 220px;
+	top: 1000px;
+	overflow: visible;
+}
+#POSTER_SINISTRA {
+	position: absolute;
+	width: 205.254px;
+	height: 246.55px;
+	left: 60px;
+	top: 1000px;
+	overflow: visible;
+}
+#CURSORE_by {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 903px;
+	top: 2850px;
+	overflow: visible;
+}
+#Raggruppa_36 {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_35 {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_b {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_b {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+#ape_testo {
+	position: absolute;
+	width: 252px;
+	height: 177px;
+	left: 99px;
+	top: 580px;
+	overflow: visible;
+}
+#RIGA_API_ALTO {
+	transform: translate(-110px, -3744px) matrix(1,0,0,1,165,4762) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 309px;
+	height: 27px;
+	left: 71px;
+	top: -40px;
+	overflow: hidden;
+}
+#RIGA_API_ALTO_0 {
+	position: absolute;
+	width: 309px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_b {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 282px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_ca {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 235px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cb {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 188px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cc {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 141px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cd {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 94px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_ce {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 47px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cf {
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_cg {
+	display: none;
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ape-picola_ch {
+	display: none;
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#FRONTE_DISCO {
+	position: absolute;
+	width: 311.581px;
+	height: 236.722px;
+	left: 69.5px;
+	top: 1190px;
+	overflow: visible;
+}
+
+#FRONTE_DISCO:hover{
+
+	width: 320px;
+	height: auto;
+
+}
+
+#CURSORE_d {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 1132px;
+	top: 3049px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_d {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_d {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_d:hover
+{
+	width: 104px;;
+	height: auto;
+
+}
+#Gruppo_di_maschere_8_d:hover
+{
+	width: 104px;;
+	height: auto;
+
+}
+
+#Raggruppa_58 {
+	position: absolute;
+	width: 1004px;
+	height: 505.934px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_54 {
+	position: absolute;
+	width: 918.43px;
+	height: 487.803px;
+	left: 7.965px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_53 {
+	position: absolute;
+	width: 918.43px;
+	height: 487.803px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_52 {
+	position: absolute;
+	width: 918.43px;
+	height: 487.803px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Tracciato_79 {
+	fill: rgba(255,110,47,1);
+}
+.Tracciato_79 {
+	overflow: visible;
+	position: absolute;
+	width: 185.723px;
+	height: 154.183px;
+	left: 312.12px;
+	top: 208.757px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_80 {
+	fill: rgba(255,110,47,1);
+}
+.Tracciato_80 {
+	overflow: visible;
+	position: absolute;
+	width: 281.867px;
+	height: 154.183px;
+	left: 483.679px;
+	top: 208.729px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_81 {
+	fill: rgba(255,110,47,1);
+}
+.Tracciato_81 {
+	overflow: visible;
+	position: absolute;
+	width: 160.175px;
+	height: 154.184px;
+	left: 758.255px;
+	top: 208.742px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Raggruppa_50 {
+	position: absolute;
+	width: 334.385px;
+	height: 487.803px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Tracciato_82 {
+	fill: rgba(255,237,0,1);
+	stroke: rgba(255,110,47,1);
+	stroke-width: 32.30699920654297px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_82 {
+	overflow: visible;
+	position: absolute;
+	width: 366.716px;
+	height: 520.109px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_83 {
+	fill: rgba(255,110,47,1);
+	stroke: rgba(255,237,0,1);
+	stroke-width: 11px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_83 {
+	overflow: visible;
+	position: absolute;
+	width: 255.624px;
+	height: 16.992px;
+	left: 94.898px;
+	top: 136.527px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Raggruppa_51 {
+	position: absolute;
+	width: 334.371px;
+	height: 487.803px;
+	left: 0.014px;
+	top: 0px;
+	overflow: visible;
+}
+#Tracciato_84 {
+	fill: rgba(255,237,0,1);
+}
+.Tracciato_84 {
+	overflow: visible;
+	position: absolute;
+	width: 334.371px;
+	height: 487.803px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_85 {
+	fill: rgba(255,110,47,1);
+}
+.Tracciato_85 {
+	overflow: visible;
+	position: absolute;
+	width: 253.177px;
+	height: 236.177px;
+	left: 94.898px;
+	top: 126.749px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_86 {
+	fill: rgba(255,110,47,1);
+}
+.Tracciato_86 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 263.873px;
+	top: 139.529px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Raggruppa_55 {
+	position: absolute;
+	width: 1004px;
+	height: 82.497px;
+	left: 0px;
+	top: 410.795px;
+	overflow: visible;
+}
+#Rettangolo_34 {
+	fill: rgba(246,217,185,1);
+}
+.Rettangolo_34 {
+	width: 57.27px;
+	height: 944.387px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,503.1714,-430.9363) rotate(-90deg);
+	transform-origin: center;
+}
+#Rettangolo_35 {
+	fill: rgba(229,156,72,1);
+}
+.Rettangolo_35 {
+	width: 28.635px;
+	height: 944.387px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,517.4883,-416.6182) rotate(-90deg);
+	transform-origin: center;
+}
+#Ellisse_12 {
+	fill: rgba(232,63,96,1);
+}
+.Ellisse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 82.497px;
+	height: 82.497px;
+	left: 0px;
+	top: 0px;
+}
+#Raggruppa_56 {
+	position: absolute;
+	width: 235.953px;
+	height: 125.869px;
+	left: 519.888px;
+	top: 379.548px;
+	overflow: visible;
+}
+#Tracciato_87 {
+	fill: rgba(0,0,0,1);
+}
+.Tracciato_87 {
+	overflow: visible;
+	position: absolute;
+	width: 60.343px;
+	height: 124.305px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_88 {
+	fill: rgba(0,0,0,1);
+}
+.Tracciato_88 {
+	overflow: visible;
+	position: absolute;
+	width: 65.582px;
+	height: 80.821px;
+	left: 48.931px;
+	top: 45.048px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_89 {
+	fill: rgba(0,0,0,1);
+}
+.Tracciato_89 {
+	overflow: visible;
+	position: absolute;
+	width: 50.51px;
+	height: 83.545px;
+	left: 127.601px;
+	top: 42.227px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_90 {
+	fill: rgba(0,0,0,1);
+}
+.Tracciato_90 {
+	overflow: visible;
+	position: absolute;
+	width: 52.354px;
+	height: 93.28px;
+	left: 183.6px;
+	top: 32.281px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Raggruppa_57 {
+	position: absolute;
+	width: 214.888px;
+	height: 126.902px;
+	left: 778.667px;
+	top: 379.031px;
+	overflow: visible;
+}
+#Tracciato_91 {
+	fill: rgba(1,2,2,1);
+}
+.Tracciato_91 {
+	overflow: visible;
+	position: absolute;
+	width: 214.888px;
+	height: 126.902px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_92 {
+	fill: rgba(255,237,0,1);
+}
+.Tracciato_92 {
+	overflow: visible;
+	position: absolute;
+	width: 13.242px;
+	height: 10.62px;
+	left: 26.371px;
+	top: 88.56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+img#sfondo-flame {
+	position: absolute;
+	width: 1010px;
+	height: 726px;
+	left: 680.312px;
+	top: 107px;
+	overflow: visible;
+}
+
+#CURSORE_fb {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 1327.57px;
+	top: 3256px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_fc {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_fd {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Gruppo_di_maschere_9_fc:hover
+{
+	width: 104px;;
+	height: auto;
+
+}
+#Gruppo_di_maschere_8_fd:hover
+{
+	width: 104px;;
+	height: auto;
+
+}
+#TBA {
+	position: absolute;
+	width: 450px;
+	height: 1060.44px;
+	left: -17.669px;
+	top: 7200px;
+	overflow: visible;
+}
+#TBA_mag_TITOLO {
+	left: 66.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	height: 150px;
+	text-align: center;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+}
+#a4_tiny_moving_parts_rgb_copy {
+	position: absolute;
+	width: 410.337px;
+	height: 501.445px;
+	left: 19.835px;
+	top: 130.346px;
+	overflow: visible;
+}
+#MACHINE_GUN {
+	position: absolute;
+	width: 200.921px;
+	height: 241.179px;
+	left: 182.811px;
+	top: 597.189px;
+	overflow: visible;
+}
+#TRE_ALLEGRI {
+	opacity: 0.91;
+	position: absolute;
+	width: 200.921px;
+	height: 241.179px;
+	left: 182.811px;
+	top: 818.382px;
+	overflow: visible;
+}
+#a4_MCR_rgb_vuoto {
+	position: absolute;
+	width: 202.114px;
+	height: 242.778px;
+	left: 26.605px;
+	top: 596.471px;
+	overflow: visible;
+}
+#GAZEBO {
+	position: absolute;
+	width: 202.114px;
+	height: 242.778px;
+	left: 26.605px;
+	top: 817.662px;
+	overflow: visible;
+}
+#FINE {
+	position: absolute;
+	width: 906.542px;
+	height: 449px;
+	left: 252.2px;
+	top: 15653px;
+	overflow: visible;
+}
+#CURSORE_fm {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 757.8px;
+	top: 123.367px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_fn {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_fo {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+
+#Gruppo_di_maschere_9_fn:hover
+{
+	width: 104px;;
+	height: auto;
+
+}
+#Gruppo_di_maschere_8_fo:hover
+{
+	width: 104px;;
+	height: auto;
+
+}
+#This_is_ME_fp {
+	left: 0px;
+	top: 207px;
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(0,0,0,1);
+}
+#Matteo_Capirossi {
+	left: 565.8px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 329px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(0,0,0,1);
+}
+#IMMAGINE_FACCIA_fr {
+	position: absolute;
+	width: 332px;
+	height: 449px;
+	left: 221.8px;
+	top: 0px;
+	overflow: visible;
+}
+#HOKUSAI {
+	position: absolute;
+	width: 450px;
+	height: auto;
+	left: 0px;
+	top: 4600px;
+	overflow: visible;
+}
+#FK_YOU_TITOLO {
+	left: 34px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 382px;
+	height: 170px;
+	text-align: center;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -3px;
+	line-height: 48px;
+}
+#FK_YOU_TESTO {
+	left: 73.5px;
+	top: 125px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	white-space: ;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#LA-GRANDE-ONDA {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 306px;
+	height: 209px;
+	left: 72px;
+	top: 300px;
+	overflow: visible;
+}
+#FORESTA-SUL-MARE-2 {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 302px;
+	height: 175px;
+	left: 74px;
+	top: 522px;
+	overflow: visible;
+}
+#CASCATA {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 302px;
+	height: 444px;
+	left: 74px;
+	top: 700px;
+	overflow: visible;
+}
+#RISO {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	display: none;
+	position: absolute;
+	width: 661px;
+	height: 455px;
+	left: 74px;
+	top: 840px;
+	overflow: visible;
+}
+#CONTADINI {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 302px;
+	height: 206px;
+	left: 74px;
+	top: 1150px;
+	overflow: visible;
+}
+#CURSORE_cm {
+	display: none;
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 904px;
+	top: 3049px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_cn {
+	display: none;
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_co {
+	display: none;
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_cp {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_cq {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+#FLAME_FEST {
+	position: absolute;
+	width: 450px;
+	left: 0px;
+height: auto;
+	top: 6000px;
+	overflow: visible;
+}
+#Flame_fest_TITOLO {
+	left: 57.445px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: auto;
+	height: 138px;
+	text-align: center;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+}
+#Flame_fest_TESTO {
+	left: 73.5px;
+	top: 150px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	white-space: normal;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.1px;
+}
+#POSTER_1 {
+	position: absolute;
+	width: 429.77px;
+	height: 311.082px;
+	left: 0px;
+	top: 518.848px;
+	overflow: visible;
+}
+#LOCANDINA_1 {
+	position: absolute;
+	width: 147.22px;
+	height: 208.016px;
+	left: 280.638px;
+	top: 651.962px;
+	overflow: visible;
+}
+#LOCANDINA_3 {
+	position: absolute;
+	width: 147.22px;
+	height: 208.016px;
+	left: 280.638px;
+	top: 865.64px;
+	overflow: visible;
+}
+#LOCANDINA_2 {
+	position: absolute;
+	width: 147.22px;
+	height: 208.313px;
+	left: 128.65px;
+	top: 759.545px;
+	overflow: visible;
+}
+#CELL_1 {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 70.63px;
+	height: 145.562px;
+	left: 128.65px;
+	top: 945.21px;
+	overflow: visible;
+}
+#CELL_2 {
+	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
+	position: absolute;
+	width: 71.226px;
+	height: 146.791px;
+	left: 204.644px;
+	top: 973.82px;
+	overflow: visible;
+}
+#CURSORE_c {
+	position: absolute;
+	width: 148.742px;
+	height: 50px;
+	left: 1040.027px;
+	top: 3256px;
+	display: none;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_c {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_c {
+	position: absolute;
+	width: 90.515px;
+	height: 50px;
+	left: 58.227px;
+	top: 0px;
+	overflow: visible;
+}
+#Untitled-2 {
+	position: absolute;
+	width: 302px;
+	height: 157.892px;
+	left: 47px;
+	top: 426px;
+	overflow: visible;
+	z-index: 99; 
+}
+#raccoglitore_flame
+{
+	position: absolute;
+	width: 300px;
+	left: 0px;
+height: auto;
+	overflow: visible;
+}
+#lettera_f {
+	position: absolute;
+	width: 212.48px;
+	height: 310.854px;
+	left: 567.29px;
+	top: 521px;
+	display: none;
+	overflow: visible;
+}
+#Tracciato_142 {
+	fill: rgba(255,238,82,1);
+}
+.Tracciato_142 {
+	overflow: visible;
+	position: absolute;
+	width: 202.47px;
+	height: 301.032px;
+	left: 5px;
+	top: 4.911px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_143 {
+	fill: rgba(237,110,56,1);
+}
+.Tracciato_143 {
+	overflow: visible;
+	position: absolute;
+	width: 212.48px;
+	height: 310.854px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#sfondo-flame {
+	display: none;
+	position: absolute;
+	width: 1010px;
+	height: 726px;
+	left: 392.77px;
+	top: 107px;
+	overflow: visible;
+}
+#FINE {
+	position: absolute;
+	width: 155.558px;
+	height: 261.158px;
+	left: 110.034px;
+	top: 8500px;
+	overflow: visible;
+}
+#CURSORE_dg {
+	position: absolute;
+	width: 60.192px;
+	height: 20.234px;
+	left: 224.774px;
+	top: 57.081px;
+	display: none;
+	overflow: visible;
+}
+#Gruppo_di_maschere_9_dh {
+	position: absolute;
+	width: 36.629px;
+	height: 20.233px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Gruppo_di_maschere_8_di {
+	position: absolute;
+	width: 36.629px;
+	height: 20.233px;
+	left: 23.563px;
+	top: 0px;
+	overflow: visible;
+}
+#This_is_ME_fp {
+	left: 16.334px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gaegu;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Matteo_Capirossi {
+	left: 0px;
+	top: 42.211px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Kanit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#IMMAGINE_FACCIA_fr {
+	position: absolute;
+	width: 135px;
+	height: 181px;
+	left: 7.966px;
+	top: 100px;
+	overflow: visible;
+}
+
+
+}
