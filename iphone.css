@@ -18,7 +18,7 @@ a{
 #THIS_IS_ME_CAPIROSSI_MATTEO {
 	position: absolute;
 	width: 450px;
-	height: 9510px;
+	height: 10360px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 }
@@ -206,7 +206,7 @@ a{
 	overflow: visible;
 	width: 303px;
 	white-space: nowrp;
-	line-height: 17px;
+	line-height: 20px;
 	margin-top: -1.5px;
 	text-align: left;
 	font-family: Kanit;
@@ -218,12 +218,12 @@ a{
 }
 #My_name_is_Matteo_Capirossi_an {
 	left: 73.5px;
-	top: 880px;
+	top: 1000px;
 	position: absolute;
 	overflow: visible;
 	width: 322px;
 	white-space: nowap;
-	line-height: 17px;
+	line-height: 20px;
 	margin-top: -1.5px;
 	text-align: left;
 	font-family: Kanit;
@@ -295,7 +295,7 @@ a{
 	width: 450px;
 	height: autopx;
 	left: 0px;
-	top: 3250px;
+	top: 3550px;
 	overflow: visible;
 }
 #SFONDO_ {
@@ -388,7 +388,7 @@ a{
 }
 #I_want_more {
 	left: 112px;
-	top: 5900px;
+	top: 6450px;
 	position: absolute;
 	overflow: visible;
 	width: 226px;
@@ -432,7 +432,7 @@ a{
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 3500px;
+	top: 3800px;
 	overflow: visible;
 }
 
@@ -478,7 +478,7 @@ a{
 	position: absolute;
 	overflow: visible;
 	width: 303px;
-	line-height: 17px;
+	line-height: 20px;
 	margin-top: -1.5px;
 	text-align: left;
 	white-space: normal;
@@ -494,7 +494,7 @@ a{
 	width: 339px;
 	height: 156px;
 	left: 55.5px;
-	top: 1070px;
+	top: 1220px;
 	overflow: visible;
 }
 #RIGA_API_BASSO {
@@ -502,7 +502,7 @@ a{
 	width: 308px;
 	height: 28px;
 	left: 71px;
-	top: 1030px;
+	top: 1180px;
 	overflow: hidden;
 }
 #RIGA_API_BASSO_0 {
@@ -638,7 +638,7 @@ a{
 	width: 204.043px;
 	height: 244.926px;
 	left: 205.811px;
-	top: 1280px;
+	top: 1430px;
 	overflow: visible;
 }
 #POSTER_SINISTRA {
@@ -646,7 +646,7 @@ a{
 	width: 205.254px;
 	height: 246.55px;
 	left: 48.605px;
-	top: 1280px;
+	top: 1430px;
 	overflow: visible;
 }
 #CURSORE_by {
@@ -694,7 +694,7 @@ a{
 	width: 252px;
 	height: 177px;
 	left: 99px;
-	top: 820px;
+	top: 950px;
 	overflow: visible;
 }
 #RIGA_API_ALTO {
@@ -704,7 +704,7 @@ a{
 	width: 400px;
 	height: 27px;
 	left: 0px;
-	top: 220px;
+	top: 370px;
 	overflow: hidden;
 }
 #RIGA_API_ALTO_0 {
@@ -794,7 +794,7 @@ a{
 	width: 311.581px;
 	height: 236.722px;
 	left: 69.5px;
-	top: 1470px;
+	top: 1610px;
 	overflow: visible;
 }
 
@@ -1179,7 +1179,7 @@ img#sfondo-flame {
 	width: 450px;
 	height: 1060.44px;
 	left: -17.669px;
-	top: 8000px;
+	top: 8800px;
 	overflow: visible;
 }
 #TBA_mag_TITOLO {
@@ -1243,7 +1243,7 @@ img#sfondo-flame {
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 5300px;
+	top: 5750px;
 	overflow: visible;
 }
 #FK_YOU_TITOLO {
@@ -1269,13 +1269,13 @@ img#sfondo-flame {
 	overflow: visible;
 	width: 303px;
 	white-space: ;
-	line-height: 17px;
+	line-height: 20px;
 	margin-top: -1.5px;
 	text-align: left;
 	font-family: Kanit;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 15px;
+	font-size: 19px;
 	color: rgba(0,0,0,1);
 	letter-spacing: -0.1px;
 }
@@ -1285,7 +1285,7 @@ img#sfondo-flame {
 	width: 306px;
 	height: 209px;
 	left: 72px;
-	top: 300px;
+	top: 370px;
 	overflow: visible;
 }
 #FORESTA-SUL-MARE-2 {
@@ -1294,7 +1294,7 @@ img#sfondo-flame {
 	width: 302px;
 	height: 175px;
 	left: 74px;
-	top: 522px;
+	top: 592px;
 	overflow: visible;
 }
 #CASCATA {
@@ -1303,7 +1303,7 @@ img#sfondo-flame {
 	width: 302px;
 	height: 444px;
 	left: 74px;
-	top: 700px;
+	top: 770px;
 	overflow: visible;
 }
 #RISO {
@@ -1322,7 +1322,7 @@ img#sfondo-flame {
 	width: 302px;
 	height: 206px;
 	left: 74px;
-	top: 1150px;
+	top: 1220px;
 	overflow: visible;
 }
 #CURSORE_cm {
@@ -1373,7 +1373,7 @@ img#sfondo-flame {
 	width: 450px;
 	left: 0px;
 height: auto;
-	top: 6750px;
+	top: 7300px;
 	overflow: visible;
 }
 #Flame_fest_TITOLO {
@@ -1397,13 +1397,13 @@ height: auto;
 	overflow: visible;
 	width: 303px;
 	white-space: normal;
-	line-height: 17px;
+	line-height: 20px;
 	margin-top: -1.5px;
 	text-align: left;
 	font-family: Kanit;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 15px;
+	font-size: 19px;
 	color: rgba(0,0,0,1);
 	letter-spacing: -0.1px;
 }
@@ -1412,7 +1412,7 @@ height: auto;
 	width: 429.77px;
 	height: 311.082px;
 	left: -80px;
-	top: 558.848px;
+	top: 758.848px;
 	overflow: visible;
 }
 #LOCANDINA_1 {
@@ -1420,7 +1420,7 @@ height: auto;
 	width: 147.22px;
 	height: 208.016px;
 	left: 215.638px;
-	top: 691.962px;
+	top: 891.962px;
 	overflow: visible;
 }
 #LOCANDINA_3 {
@@ -1428,7 +1428,7 @@ height: auto;
 	width: 147.22px;
 	height: 208.016px;
 	left: 215.638px;
-	top: 905.64px;
+	top: 1105.64px;
 	overflow: visible;
 }
 #LOCANDINA_2 {
@@ -1436,7 +1436,7 @@ height: auto;
 	width: 147.22px;
 	height: 208.313px;
 	left: 60.605px;
-	top: 799.545px;
+	top: 999.545px;
 	overflow: visible;
 }
 #CELL_1 {
@@ -1445,7 +1445,7 @@ height: auto;
 	width: 100px;
 	height: auto;
 	left: 53.605px;
-	top: 985.21px;
+	top: 1185.21px;
 	overflow: visible;
 }
 #CELL_2 {
@@ -1454,7 +1454,7 @@ height: auto;
 	width: 100px;
 	height: auto;
 	left: 140px;
-	top: 1013.82px;
+	top: 1213.82px;
 	overflow: visible;
 }
 #CURSORE_c {
@@ -1487,7 +1487,7 @@ height: auto;
 	width: 302px;
 	height: 157.892px;
 	left: 47px;
-	top: 466px;
+	top: 666px;
 	overflow: visible;
 	z-index: 99; 
 }
@@ -1546,7 +1546,7 @@ height: auto;
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 9300px;
+	top: 10150px;
 	overflow: visible;
 }
 #CURSORE_dg {
