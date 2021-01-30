@@ -18,7 +18,7 @@ a{
 #THIS_IS_ME_CAPIROSSI_MATTEO {
 	position: absolute;
 	width: 450px;
-	height: 8720px;
+	height: 9510px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 }
@@ -174,10 +174,10 @@ a{
 }
 #THIS_IS_ME_s {
 	position: absolute;
-	width: 1280px;
+	width: 450px;
 	height: 1108px;
 	left: 0px;
-	top: 1550px;
+	top: 1600px;
 	overflow: visible;
 }
 #SFONDO_u {
@@ -212,13 +212,13 @@ a{
 	font-family: Kanit;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 15px;
+	font-size: 19px;
 	color: rgba(0,0,0,1);
 	letter-spacing: -0.1px;
 }
 #My_name_is_Matteo_Capirossi_an {
 	left: 73.5px;
-	top: 750px;
+	top: 880px;
 	position: absolute;
 	overflow: visible;
 	width: 322px;
@@ -229,7 +229,7 @@ a{
 	font-family: Kanit;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 15px;
+	font-size: 19px;
 	color: rgba(0,0,0,1);
 	letter-spacing: -0.1px;
 }
@@ -292,10 +292,10 @@ a{
 }
 #MENU_LAVORI {
 	position: absolute;
-	width: 416px;
-	height: 5616px;
+	width: 450px;
+	height: autopx;
 	left: 0px;
-	top: 2893px;
+	top: 3250px;
 	overflow: visible;
 }
 #SFONDO_ {
@@ -387,8 +387,8 @@ a{
 	color: rgba(0,0,0,1);
 }
 #I_want_more {
-	left: 93px;
-	top: 5450px;
+	left: 112px;
+	top: 5900px;
 	position: absolute;
 	overflow: visible;
 	width: 226px;
@@ -432,7 +432,7 @@ a{
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 3100px;
+	top: 3500px;
 	overflow: visible;
 }
 
@@ -485,7 +485,7 @@ a{
 	font-family: Kanit;
 	font-style: normal;
 	font-weight: lighter;
-	font-size: 15px;
+	font-size: 19px;
 	color: rgba(0,0,0,1);
 	letter-spacing: -0.1px;
 }
@@ -494,7 +494,7 @@ a{
 	width: 339px;
 	height: 156px;
 	left: 55.5px;
-	top: 810px;
+	top: 1070px;
 	overflow: visible;
 }
 #RIGA_API_BASSO {
@@ -502,7 +502,7 @@ a{
 	width: 308px;
 	height: 28px;
 	left: 71px;
-	top: 770px;
+	top: 1030px;
 	overflow: hidden;
 }
 #RIGA_API_BASSO_0 {
@@ -637,16 +637,16 @@ a{
 	position: absolute;
 	width: 204.043px;
 	height: 244.926px;
-	left: 220px;
-	top: 1000px;
+	left: 205.811px;
+	top: 1280px;
 	overflow: visible;
 }
 #POSTER_SINISTRA {
 	position: absolute;
 	width: 205.254px;
 	height: 246.55px;
-	left: 60px;
-	top: 1000px;
+	left: 48.605px;
+	top: 1280px;
 	overflow: visible;
 }
 #CURSORE_by {
@@ -694,24 +694,24 @@ a{
 	width: 252px;
 	height: 177px;
 	left: 99px;
-	top: 580px;
+	top: 820px;
 	overflow: visible;
 }
 #RIGA_API_ALTO {
 	transform: translate(-110px, -3744px) matrix(1,0,0,1,165,4762) rotate(180deg);
 	transform-origin: center;
 	position: absolute;
-	width: 309px;
+	width: 400px;
 	height: 27px;
-	left: 71px;
-	top: -40px;
+	left: 0px;
+	top: 220px;
 	overflow: hidden;
 }
 #RIGA_API_ALTO_0 {
 	position: absolute;
 	width: 309px;
 	height: 27px;
-	left: 0px;
+	left: 71px;
 	top: 0px;
 	overflow: visible;
 }
@@ -794,7 +794,7 @@ a{
 	width: 311.581px;
 	height: 236.722px;
 	left: 69.5px;
-	top: 1190px;
+	top: 1470px;
 	overflow: visible;
 }
 
@@ -1179,7 +1179,7 @@ img#sfondo-flame {
 	width: 450px;
 	height: 1060.44px;
 	left: -17.669px;
-	top: 7200px;
+	top: 8000px;
 	overflow: visible;
 }
 #TBA_mag_TITOLO {
@@ -1200,7 +1200,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 410.337px;
 	height: 501.445px;
-	left: 19.835px;
+	left: 27px;
 	top: 130.346px;
 	overflow: visible;
 }
@@ -1208,7 +1208,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 200.921px;
 	height: 241.179px;
-	left: 182.811px;
+	left: 212.811px;
 	top: 597.189px;
 	overflow: visible;
 }
@@ -1217,7 +1217,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 200.921px;
 	height: 241.179px;
-	left: 182.811px;
+	left: 212.811px;
 	top: 818.382px;
 	overflow: visible;
 }
@@ -1225,7 +1225,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 202.114px;
 	height: 242.778px;
-	left: 26.605px;
+	left: 55.605px;
 	top: 596.471px;
 	overflow: visible;
 }
@@ -1233,97 +1233,17 @@ img#sfondo-flame {
 	position: absolute;
 	width: 202.114px;
 	height: 242.778px;
-	left: 26.605px;
+	left: 55.605px;
 	top: 817.662px;
 	overflow: visible;
 }
-#FINE {
-	position: absolute;
-	width: 906.542px;
-	height: 449px;
-	left: 252.2px;
-	top: 15653px;
-	overflow: visible;
-}
-#CURSORE_fm {
-	position: absolute;
-	width: 148.742px;
-	height: 50px;
-	left: 757.8px;
-	top: 123.367px;
-	overflow: visible;
-}
-#Gruppo_di_maschere_9_fn {
-	position: absolute;
-	width: 90.515px;
-	height: 50px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-}
-#Gruppo_di_maschere_8_fo {
-	position: absolute;
-	width: 90.515px;
-	height: 50px;
-	left: 58.227px;
-	top: 0px;
-	overflow: visible;
-}
 
-#Gruppo_di_maschere_9_fn:hover
-{
-	width: 104px;;
-	height: auto;
-
-}
-#Gruppo_di_maschere_8_fo:hover
-{
-	width: 104px;;
-	height: auto;
-
-}
-#This_is_ME_fp {
-	left: 0px;
-	top: 207px;
-	position: absolute;
-	overflow: visible;
-	width: 209px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Gaegu;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 42px;
-	color: rgba(0,0,0,1);
-}
-#Matteo_Capirossi {
-	left: 565.8px;
-	top: 204px;
-	position: absolute;
-	overflow: visible;
-	width: 329px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Kanit;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 42px;
-	color: rgba(0,0,0,1);
-}
-#IMMAGINE_FACCIA_fr {
-	position: absolute;
-	width: 332px;
-	height: 449px;
-	left: 221.8px;
-	top: 0px;
-	overflow: visible;
-}
 #HOKUSAI {
 	position: absolute;
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 4600px;
+	top: 5300px;
 	overflow: visible;
 }
 #FK_YOU_TITOLO {
@@ -1453,7 +1373,7 @@ img#sfondo-flame {
 	width: 450px;
 	left: 0px;
 height: auto;
-	top: 6000px;
+	top: 6750px;
 	overflow: visible;
 }
 #Flame_fest_TITOLO {
@@ -1491,50 +1411,50 @@ height: auto;
 	position: absolute;
 	width: 429.77px;
 	height: 311.082px;
-	left: 0px;
-	top: 518.848px;
+	left: -80px;
+	top: 558.848px;
 	overflow: visible;
 }
 #LOCANDINA_1 {
 	position: absolute;
 	width: 147.22px;
 	height: 208.016px;
-	left: 280.638px;
-	top: 651.962px;
+	left: 215.638px;
+	top: 691.962px;
 	overflow: visible;
 }
 #LOCANDINA_3 {
 	position: absolute;
 	width: 147.22px;
 	height: 208.016px;
-	left: 280.638px;
-	top: 865.64px;
+	left: 215.638px;
+	top: 905.64px;
 	overflow: visible;
 }
 #LOCANDINA_2 {
 	position: absolute;
 	width: 147.22px;
 	height: 208.313px;
-	left: 128.65px;
-	top: 759.545px;
+	left: 60.605px;
+	top: 799.545px;
 	overflow: visible;
 }
 #CELL_1 {
 	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
 	position: absolute;
-	width: 70.63px;
-	height: 145.562px;
-	left: 128.65px;
-	top: 945.21px;
+	width: 100px;
+	height: auto;
+	left: 53.605px;
+	top: 985.21px;
 	overflow: visible;
 }
 #CELL_2 {
 	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
 	position: absolute;
-	width: 71.226px;
-	height: 146.791px;
-	left: 204.644px;
-	top: 973.82px;
+	width: 100px;
+	height: auto;
+	left: 140px;
+	top: 1013.82px;
 	overflow: visible;
 }
 #CURSORE_c {
@@ -1567,7 +1487,7 @@ height: auto;
 	width: 302px;
 	height: 157.892px;
 	left: 47px;
-	top: 426px;
+	top: 466px;
 	overflow: visible;
 	z-index: 99; 
 }
@@ -1623,10 +1543,10 @@ height: auto;
 }
 #FINE {
 	position: absolute;
-	width: 155.558px;
-	height: 261.158px;
-	left: 110.034px;
-	top: 8500px;
+	width: 450px;
+	height: auto;
+	left: 0px;
+	top: 9300px;
 	overflow: visible;
 }
 #CURSORE_dg {
@@ -1654,9 +1574,9 @@ height: auto;
 	top: 0px;
 	overflow: visible;
 }
-#This_is_ME_fp {
-	left: 16.334px;
-	top: 0px;
+#This_is_ME_dm {
+	left: 165px;
+	top: 10px;
 	position: absolute;
 	overflow: visible;
 	width: 120px;
@@ -1669,7 +1589,7 @@ height: auto;
 	color: rgba(0,0,0,1);
 }
 #Matteo_Capirossi {
-	left: 0px;
+	left: 146.5px;
 	top: 42.211px;
 	position: absolute;
 	overflow: visible;
@@ -1682,12 +1602,12 @@ height: auto;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
 }
-#IMMAGINE_FACCIA_fr {
+#IMMAGINE_FACCIA_do {
 	position: absolute;
-	width: 135px;
-	height: 181px;
-	left: 7.966px;
-	top: 100px;
+	width: 146.5px;
+	height: auto;
+	left: 157px;
+	top: 80px;
 	overflow: visible;
 }
 
