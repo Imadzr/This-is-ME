@@ -18,7 +18,7 @@ a{
 #THIS_IS_ME_CAPIROSSI_MATTEO {
 	position: absolute;
 	width: 450px;
-	height: 10360px;
+	height: 10260px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 }
@@ -84,7 +84,7 @@ a{
 	width: 214px;
 	height: 300px;
 	left: 118px;
-	top: 420px;
+	top: 380px;
 	overflow: visible;
 }
 #ABOUT_ME {
@@ -388,7 +388,7 @@ a{
 }
 #I_want_more {
 	left: 112px;
-	top: 6450px;
+	top: 6350px;
 	position: absolute;
 	overflow: visible;
 	width: 226px;
@@ -1178,8 +1178,8 @@ img#sfondo-flame {
 	position: absolute;
 	width: 450px;
 	height: 1060.44px;
-	left: -17.669px;
-	top: 8800px;
+	left: 0px;
+	top: 8720px;
 	overflow: visible;
 }
 #TBA_mag_TITOLO {
@@ -1200,7 +1200,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 410.337px;
 	height: 501.445px;
-	left: 27px;
+	left: 19.8315px;
 	top: 130.346px;
 	overflow: visible;
 }
@@ -1208,7 +1208,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 200.921px;
 	height: 241.179px;
-	left: 212.811px;
+	left: 205.811px;
 	top: 597.189px;
 	overflow: visible;
 }
@@ -1217,7 +1217,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 200.921px;
 	height: 241.179px;
-	left: 212.811px;
+	left: 205.811px;
 	top: 818.382px;
 	overflow: visible;
 }
@@ -1225,7 +1225,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 202.114px;
 	height: 242.778px;
-	left: 55.605px;
+	left: 49.605px;
 	top: 596.471px;
 	overflow: visible;
 }
@@ -1233,7 +1233,7 @@ img#sfondo-flame {
 	position: absolute;
 	width: 202.114px;
 	height: 242.778px;
-	left: 55.605px;
+	left: 49.605px;
 	top: 817.662px;
 	overflow: visible;
 }
@@ -1248,7 +1248,7 @@ img#sfondo-flame {
 }
 #FK_YOU_TITOLO {
 	left: 34px;
-	top: 0px;
+	top: -10px;
 	position: absolute;
 	overflow: hidden;
 	width: 382px;
@@ -1260,7 +1260,7 @@ img#sfondo-flame {
 	font-size: 70px;
 	color: rgba(0,0,0,1);
 	letter-spacing: -3px;
-	line-height: 48px;
+	line-height: 55px;
 }
 #FK_YOU_TESTO {
 	left: 73.5px;
@@ -1373,12 +1373,12 @@ img#sfondo-flame {
 	width: 450px;
 	left: 0px;
 height: auto;
-	top: 7300px;
+	top: 7250px;
 	overflow: visible;
 }
 #Flame_fest_TITOLO {
 	left: 57.445px;
-	top: 0px;
+	top: 40px;
 	position: absolute;
 	overflow: visible;
 	width: auto;
@@ -1388,6 +1388,7 @@ height: auto;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 70px;
+	line-height: 40px;
 	color: rgba(0,0,0,1);
 }
 #Flame_fest_TESTO {
@@ -1411,7 +1412,7 @@ height: auto;
 	position: absolute;
 	width: 429.77px;
 	height: 311.082px;
-	left: -80px;
+	left: -70px;
 	top: 758.848px;
 	overflow: visible;
 }
@@ -1419,7 +1420,7 @@ height: auto;
 	position: absolute;
 	width: 147.22px;
 	height: 208.016px;
-	left: 215.638px;
+	left: 225.638px;
 	top: 891.962px;
 	overflow: visible;
 }
@@ -1427,7 +1428,7 @@ height: auto;
 	position: absolute;
 	width: 147.22px;
 	height: 208.016px;
-	left: 215.638px;
+	left: 225.638px;
 	top: 1105.64px;
 	overflow: visible;
 }
@@ -1435,7 +1436,7 @@ height: auto;
 	position: absolute;
 	width: 147.22px;
 	height: 208.313px;
-	left: 60.605px;
+	left: 70.605px;
 	top: 999.545px;
 	overflow: visible;
 }
@@ -1444,7 +1445,7 @@ height: auto;
 	position: absolute;
 	width: 100px;
 	height: auto;
-	left: 53.605px;
+	left: 63.605px;
 	top: 1185.21px;
 	overflow: visible;
 }
@@ -1453,7 +1454,7 @@ height: auto;
 	position: absolute;
 	width: 100px;
 	height: auto;
-	left: 140px;
+	left: 150px;
 	top: 1213.82px;
 	overflow: visible;
 }
@@ -1486,7 +1487,7 @@ height: auto;
 	position: absolute;
 	width: 302px;
 	height: 157.892px;
-	left: 47px;
+	left: 74px;
 	top: 666px;
 	overflow: visible;
 	z-index: 99; 
@@ -1546,7 +1547,7 @@ height: auto;
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 10150px;
+	top: 10050px;
 	overflow: visible;
 }
 #CURSORE_dg {
