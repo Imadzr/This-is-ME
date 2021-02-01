@@ -18,7 +18,7 @@ a{
 #THIS_IS_ME_CAPIROSSI_MATTEO {
 	position: absolute;
 	width: 450px;
-	height: 10260px;
+	height: 10560px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 }
@@ -200,11 +200,11 @@ a{
 	overflow: visible;
 }
 #Mi_chiamo_Matteo_Capirossi_nat {
-	left: 73.5px;
+	left: 25px;
 	top: 140px;
 	position: absolute;
 	overflow: visible;
-	width: 303px;
+	width: 400px;
 	white-space: nowrp;
 	line-height: 20px;
 	margin-top: -1.5px;
@@ -217,11 +217,11 @@ a{
 	letter-spacing: -0.1px;
 }
 #My_name_is_Matteo_Capirossi_an {
-	left: 73.5px;
-	top: 1000px;
+	left: 25px;
+	top: 850px;
 	position: absolute;
 	overflow: visible;
-	width: 322px;
+	width: 400px;
 	white-space: nowap;
 	line-height: 20px;
 	margin-top: -1.5px;
@@ -295,7 +295,7 @@ a{
 	width: 450px;
 	height: autopx;
 	left: 0px;
-	top: 3550px;
+	top: 3300px;
 	overflow: visible;
 }
 #SFONDO_ {
@@ -388,7 +388,7 @@ a{
 }
 #I_want_more {
 	left: 112px;
-	top: 6350px;
+	top: 6900px;
 	position: absolute;
 	overflow: visible;
 	width: 226px;
@@ -432,7 +432,7 @@ a{
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 3800px;
+	top: 3600px;
 	overflow: visible;
 }
 
@@ -473,11 +473,11 @@ a{
 }
 #BUZZ_TESTO {
 	z-index: 99;
-	left: 73.5px;
+	left: 25px;
 	top: 120px;
 	position: absolute;
 	overflow: visible;
-	width: 303px;
+	width: 400px;
 	line-height: 20px;
 	margin-top: -1.5px;
 	text-align: left;
@@ -491,10 +491,10 @@ a{
 }
 #DISCO_INTERNO {
 	position: absolute;
-	width: 339px;
-	height: 156px;
-	left: 55.5px;
-	top: 1220px;
+	width: 450PX;
+	height: AUTO;
+	left: 0;
+	top: 1020px;
 	overflow: visible;
 }
 #RIGA_API_BASSO {
@@ -502,7 +502,7 @@ a{
 	width: 308px;
 	height: 28px;
 	left: 71px;
-	top: 1180px;
+	top: 980px;
 	overflow: hidden;
 }
 #RIGA_API_BASSO_0 {
@@ -635,25 +635,25 @@ a{
 }
 #POSTER_DESTRA {
 	position: absolute;
-	width: 204.043px;
-	height: 244.926px;
-	left: 205.811px;
-	top: 1430px;
+	width: 270px;
+	height: auto;
+	left: 193.811px;
+	top: 1250px;
 	overflow: visible;
 }
 #POSTER_SINISTRA {
 	position: absolute;
-	width: 205.254px;
-	height: 246.55px;
-	left: 48.605px;
-	top: 1430px;
-	overflow: visible;
+    width: 270PX;
+    height: AUTO;
+    left: -10px;
+    top: 1250px;
+    overflow: visible;
 }
 #CURSORE_by {
 	position: absolute;
 	width: 148.742px;
 	height: 50px;
-	left: 903px;
+	left: 870px;
 	top: 2850px;
 	overflow: visible;
 }
@@ -694,7 +694,7 @@ a{
 	width: 252px;
 	height: 177px;
 	left: 99px;
-	top: 950px;
+	top: 750px;
 	overflow: visible;
 }
 #RIGA_API_ALTO {
@@ -704,7 +704,7 @@ a{
 	width: 400px;
 	height: 27px;
 	left: 0px;
-	top: 370px;
+	top: 215PX;
 	overflow: hidden;
 }
 #RIGA_API_ALTO_0 {
@@ -794,7 +794,7 @@ a{
 	width: 311.581px;
 	height: 236.722px;
 	left: 69.5px;
-	top: 1610px;
+	top: 1510px;
 	overflow: visible;
 }
 
@@ -1198,44 +1198,43 @@ img#sfondo-flame {
 }
 #a4_tiny_moving_parts_rgb_copy {
 	position: absolute;
-	width: 410.337px;
-	height: 501.445px;
-	left: 19.8315px;
+	width: 550px;
+	height: auto;
+	left: -50px;
 	top: 130.346px;
 	overflow: visible;
 }
 #MACHINE_GUN {
 	position: absolute;
-	width: 200.921px;
-	height: 241.179px;
-	left: 205.811px;
-	top: 597.189px;
-	overflow: visible;
+    width: 275px;
+    height: auto;
+    left: 193.811px;
+    top: 740px;
+    overflow: visible;
 }
 #TRE_ALLEGRI {
-	opacity: 0.91;
 	position: absolute;
-	width: 200.921px;
-	height: 241.179px;
-	left: 205.811px;
-	top: 818.382px;
-	overflow: visible;
+    width: 270px;
+    height: auto;
+    left: 193.811px;
+    top: 1035px;
+    overflow: visible;
 }
 #a4_MCR_rgb_vuoto {
 	position: absolute;
-	width: 202.114px;
-	height: 242.778px;
-	left: 49.605px;
-	top: 596.471px;
-	overflow: visible;
+    width: 270PX;
+    height: AUTO;
+    left: -10px;
+    top: 740px;
+    overflow: visible;
 }
 #GAZEBO {
 	position: absolute;
-	width: 202.114px;
-	height: 242.778px;
-	left: 49.605px;
-	top: 817.662px;
-	overflow: visible;
+    width: 270PX;
+    height: AUTO;
+    left: -10px;
+    top: 1035px;
+    overflow: visible;
 }
 
 #HOKUSAI {
@@ -1243,7 +1242,7 @@ img#sfondo-flame {
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 5750px;
+	top: 5450px;
 	overflow: visible;
 }
 #FK_YOU_TITOLO {
@@ -1263,11 +1262,11 @@ img#sfondo-flame {
 	line-height: 55px;
 }
 #FK_YOU_TESTO {
-	left: 73.5px;
-	top: 125px;
+	left: 25px;
+	top: 130px;
 	position: absolute;
 	overflow: visible;
-	width: 303px;
+	width: 400px;
 	white-space: ;
 	line-height: 20px;
 	margin-top: -1.5px;
@@ -1282,28 +1281,28 @@ img#sfondo-flame {
 #LA-GRANDE-ONDA {
 	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
 	position: absolute;
-	width: 306px;
-	height: 209px;
-	left: 72px;
-	top: 370px;
+	width: 400px;
+	height: AUTO;
+	left: 30px;
+	top: 330px;
 	overflow: visible;
 }
 #FORESTA-SUL-MARE-2 {
 	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
 	position: absolute;
-	width: 302px;
-	height: 175px;
-	left: 74px;
-	top: 592px;
+	width: 410px;
+	height: auto;
+	left: 25px;
+	top: 620PX;
 	overflow: visible;
 }
 #CASCATA {
 	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
 	position: absolute;
-	width: 302px;
-	height: 444px;
-	left: 74px;
-	top: 770px;
+	width: 415px;
+	height: auto;
+	left: 25px;
+	top: 870px;
 	overflow: visible;
 }
 #RISO {
@@ -1319,10 +1318,10 @@ img#sfondo-flame {
 #CONTADINI {
 	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
 	position: absolute;
-	width: 302px;
-	height: 206px;
-	left: 74px;
-	top: 1220px;
+	width: 395px;
+	height: auto;
+	left: 30px;
+	top: 1450px;
 	overflow: visible;
 }
 #CURSORE_cm {
@@ -1373,7 +1372,7 @@ img#sfondo-flame {
 	width: 450px;
 	left: 0px;
 height: auto;
-	top: 7250px;
+	top: 7200px;
 	overflow: visible;
 }
 #Flame_fest_TITOLO {
@@ -1392,11 +1391,11 @@ height: auto;
 	color: rgba(0,0,0,1);
 }
 #Flame_fest_TESTO {
-	left: 73.5px;
-	top: 150px;
+	left: 25px;
+	top: 160px;
 	position: absolute;
 	overflow: visible;
-	width: 303px;
+	width: 400px;
 	white-space: normal;
 	line-height: 20px;
 	margin-top: -1.5px;
@@ -1410,51 +1409,51 @@ height: auto;
 }
 #POSTER_1 {
 	position: absolute;
-	width: 429.77px;
-	height: 311.082px;
-	left: -70px;
-	top: 758.848px;
+	width: 600px;
+	height: auto;
+	left: -150px;
+	top: 650.848px;
 	overflow: visible;
 }
 #LOCANDINA_1 {
 	position: absolute;
-	width: 147.22px;
-	height: 208.016px;
-	left: 225.638px;
+	width: 190px;
+	height: auto;
+	left:235px;
 	top: 891.962px;
 	overflow: visible;
 }
 #LOCANDINA_3 {
 	position: absolute;
-	width: 147.22px;
-	height: 208.016px;
-	left: 225.638px;
-	top: 1105.64px;
+	width: 190px;
+	height: auto;
+	left: 235px;
+	top: 1175.64px;
 	overflow: visible;
 }
 #LOCANDINA_2 {
 	position: absolute;
-	width: 147.22px;
-	height: 208.313px;
-	left: 70.605px;
+	width: 190px;
+	height: auto;
+	left: 25px;
 	top: 999.545px;
 	overflow: visible;
 }
 #CELL_1 {
 	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
 	position: absolute;
-	width: 100px;
+	width: 130px;
 	height: auto;
-	left: 63.605px;
+	left: 15px;
 	top: 1185.21px;
 	overflow: visible;
 }
 #CELL_2 {
 	filter: drop-shadow(20px 20px 30px rgba(0, 0, 0, 0.2));
 	position: absolute;
-	width: 100px;
+	width: 130px;
 	height: auto;
-	left: 150px;
+	left: 120px;
 	top: 1213.82px;
 	overflow: visible;
 }
@@ -1485,10 +1484,10 @@ height: auto;
 }
 #Untitled-2 {
 	position: absolute;
-	width: 302px;
-	height: 157.892px;
-	left: 74px;
-	top: 666px;
+	width: 350px;
+	height: auto;
+	left: 50px;
+	top: 550px;
 	overflow: visible;
 	z-index: 99; 
 }
@@ -1547,7 +1546,7 @@ height: auto;
 	width: 450px;
 	height: auto;
 	left: 0px;
-	top: 10050px;
+	top: 10350px;
 	overflow: visible;
 }
 #CURSORE_dg {
